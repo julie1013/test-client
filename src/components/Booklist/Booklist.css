@@ -1,6 +1,7 @@
 .booklist {
   border: 1px solid black;
   color: black;
+  font-size: 30px;
   height: 500px;
   margin: 0 auto;
   width: 500px;
