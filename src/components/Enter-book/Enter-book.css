@@ -1,0 +1,15 @@
+.book-form-field {
+  border: 1px solid black;
+  float: left;
+  width: 28%;
+  height: 200px;
+}
+
+.title,
+.author {
+  height: 25px;
+}
+
+.title {
+  margin-right: 5px;
+}
